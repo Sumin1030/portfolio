@@ -1,13 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import './resume.css';
+// import App from './App';
+import Portfolio from './Portfolio';
 import reportWebVitals from './reportWebVitals';
+import { Routes, Route, HashRouter } from 'react-router-dom';
+import Experience from "./Experience";
+import Project from "./Project";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+        <Routes>
+          <Route path='/experience' element={<Experience />}></Route>
+          <Route path='/project' element={<Project />}></Route>
+          <Route path='/' element={<Portfolio />}></Route>
+        </Routes>
+      </HashRouter>
   </React.StrictMode>
 );
 
