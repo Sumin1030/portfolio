@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.91b991a2.css",
-    "main.js": "/static/js/main.64c284db.js",
+    "main.css": "/static/css/main.252b31dc.css",
+    "main.js": "/static/js/main.9ac12825.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/DOSGothic.ttf": "/static/media/DOSGothic.56e0d614bf83161e6e79.ttf",
-    "static/media/pj_blog.png": "/static/media/pj_blog.0d0d10cf44f078f3e92b.png",
-    "static/media/guestbook.gif": "/static/media/guestbook.2253d591ed09b269a0ff.gif",
-    "static/media/language.gif": "/static/media/language.c375b0c1ef6ebf187990.gif",
+    "static/media/pj_blog.gif": "/static/media/pj_blog.8bc10de2e35ba82a747b.gif",
+    "static/media/pj_main.gif": "/static/media/pj_main.5cb7c1f78b43b08c3373.gif",
     "static/media/puzzledata.gif": "/static/media/puzzledata.ec58ca869f932523dd1a.gif",
     "static/media/pz2map.gif": "/static/media/pz2map.76732a7ec5599ce365f0.gif",
-    "static/media/pj_main.png": "/static/media/pj_main.7318e6c27b1ebd4b257c.png",
+    "static/media/pj_guestbook.gif": "/static/media/pj_guestbook.672095904f890e109375.gif",
     "static/media/calendar.gif": "/static/media/calendar.67aff2afc8f98c8d2863.gif",
     "static/media/pz3kpi.gif": "/static/media/pz3kpi.7b5f10d8f4817d0d6da2.gif",
     "static/media/login.gif": "/static/media/login.1de6df69f400049b71ac.gif",
     "index.html": "/index.html",
-    "main.91b991a2.css.map": "/static/css/main.91b991a2.css.map",
-    "main.64c284db.js.map": "/static/js/main.64c284db.js.map",
+    "main.252b31dc.css.map": "/static/css/main.252b31dc.css.map",
+    "main.9ac12825.js.map": "/static/js/main.9ac12825.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91b991a2.css",
-    "static/js/main.64c284db.js"
+    "static/css/main.252b31dc.css",
+    "static/js/main.9ac12825.js"
   ]
 }
